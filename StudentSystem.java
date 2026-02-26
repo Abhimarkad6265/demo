@@ -10,7 +10,7 @@ class Student {
     private double score;
 
     public Student(String name, double score) {
-        this.name = abhi;
+        this.name = name;
         this.score = score;
     }
 
